@@ -1,0 +1,62 @@
+@media (max-width:991px) { 
+.hero-info-box {margin-top:40px;}
+.header .logo img {max-height:50px;margin-right:0;}
+.your-element {margin:0 auto; float:none; width:150px; height:150px;}
+}
+@media (max-width:768px) {
+.your-element { display:none}
+.btn-highlighted {padding:10px 15px 10px 15px;}
+.inner-header {padding:130px 0 50px 0;}
+}
+
+@media (max-width:580px) {
+.section-title h2 {font-size: clamp(1.5rem, 4vw, 3rem);}
+.swiper-content h2 {font-size:clamp(1.2rem, 2vw, 4rem)!important;}
+.swiper-content p { font-size:15px}
+.icon-box {width:50px; height:50px;}
+.icon-box i {font-size:25px;}
+.testimonial-slider .swiper {width:100%; height:450px;}
+.btn-highlighted {padding: 8px 10px 8px 10px;font-size:16px;}
+.footer-title p {font-size:15px; font-weight: 500;text-transform: uppercase;}
+.scroll-parent span {font-size:14px;}
+.scroll-parent {padding:10px 0;}
+.scroll-parent img {width:13px;}
+.rotate-video {width:100px;height:100px;}
+.rotate-video img {width:100px;height:100px;}
+.testimonials .testimonial-slider {padding-bottom:0;}
+.inner-header h2 {font-size:30px; font-weight:800;text-transform: uppercase;}
+.inner-header {padding:130px 0 50px 0;}
+.faq-accordion {padding:10px;}
+.faq-accordion .accordion-item {margin-bottom:10px;}
+.footer-title p {border-left:0;padding-left:0;}
+.footer .footer-links ul li {padding:10px 0}
+.footer h3 {padding-bottom:10px;}
+.footer .copyright {padding-top:0;}	
+.spec-row {font-size:12px;}
+.car-name {display:none} 
+.slide.active .slide-content {bottom:20px;}
+.now-showing {display:none}
+.car-subtitle {margin-bottom:10px;}
+.slide.active .slide-number { font-size:30px}
+}
+
+@media (max-width:480px) {
+.portfolio .portfolio-filters {gap:8px; font-size:14px;}
+.portfolio .content {padding:10px 0}
+.contact-us {margin-left:0;}
+.contact ul li {margin: 0 0 30px 0; padding: 0 0 30px 70px;}
+.contact ul li:last-child { margin:0; padding: 0 0 0 70px;}
+section, .section {scroll-margin-top:40px; padding:40px 0;}
+.swiper-content h3 {font-size:11px;}
+.swiper-content h2 {font-size: clamp(1.5rem, 2vw, 4rem)!important;}
+.about-us-2 .about-us-image figure {border:5px solid #fff;}
+.about-us-1 figure {border:0;}
+.inner-header {padding: 100px 0 40px 0;}
+.inner-header h2 {font-size:25px; margin:0;}
+.breadcrumb li {font-size:12px}
+}
+
+@media (max-width:414px) {
+.button--calypso {font-size:13px; line-height:20px;} 
+.button { padding:12px 10px 12px 10px!important}
+}
