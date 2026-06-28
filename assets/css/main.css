@@ -4274,7 +4274,8 @@ margin-bottom: 0;
 .service-hover i { position:absolute; top:0;inset-inline-end:0;inset-inline-start:0; margin:0 auto;  font-size:35px; z-index:999; width:35px; height:35px; top:37%; color:#fff;  opacity:0; transition: opacity 0.5s ease-in-out}
 .service-hover:hover i {opacity:1; transition: all 0.4s ease-in-out;}
 .service-hover a {color:#000;font-size: 18px;}
-.service-hover a img{ height: 250px;}
+.service-hover a img{ height: 350px; width: 100%;}
+.product-se .service-hover a img{height: 250px;}
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
